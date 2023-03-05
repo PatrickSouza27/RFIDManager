@@ -12,6 +12,5 @@ Este Projeto fiz como base no da própria Zebra para fins de estudos e quem sabe
 <p>Continuando Sobre a Tela de Gerenciador de RFID, ele tem uma opção de logs(log de dados é uma expressão utilizada para descrever o processo de registro de eventos relevantes num sistema computacional), Também possui a função de Inventario, onde mostrará todas as etiquetas RFID proximo, opções de start / Stop / Limpar a grade de dados.<br>Temos a opção Localizador que permite eu colocar o identificador da etiqueta, como seu codigo, e o software começar a procurar onde ela está. caso esteja proximo, o RFID manager começará a fazer som de aproximação e progresso de barra. Até aqui já foi testado com o Zebra RFD8500 Bluetooth Handheld UHF</p>
 
 <br>
-<br>
 
 ![Captura de tela 2023-03-03 124100](https://user-images.githubusercontent.com/77933748/222765497-e41d9d1c-b639-4f59-8b79-46b35dc1a2f9.png)
