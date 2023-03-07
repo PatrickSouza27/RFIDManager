@@ -13,4 +13,5 @@ Este Projeto fiz como base no da própria Zebra para fins de estudos e quem sabe
 
 <br>
 
+
 ![Captura de tela 2023-03-03 124100](https://user-images.githubusercontent.com/77933748/222765497-e41d9d1c-b639-4f59-8b79-46b35dc1a2f9.png)
